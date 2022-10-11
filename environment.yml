@@ -1,0 +1,15 @@
+name: hail-xsec
+channels:
+  - conda-forge
+dependencies:
+ - numpy
+ - scipy
+ - pandas
+ - matplotlib
+ - scikit-image
+ - shapely
+ - opencv
+ - jupyterlab
+ - nb_conda
+ - seaborn
+
